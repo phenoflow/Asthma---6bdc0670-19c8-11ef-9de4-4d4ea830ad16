@@ -1,0 +1,66 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/asthma-fever---primary.py
+inputModule3:
+  class: File
+  path: python/asthma---primary.py
+inputModule4:
+  class: File
+  path: python/pollen-asthma---primary.py
+inputModule5:
+  class: File
+  path: python/asthma-onset---primary.py
+inputModule6:
+  class: File
+  path: python/severe-asthma---primary.py
+inputModule7:
+  class: File
+  path: python/intrinsic-asthma---primary.py
+inputModule8:
+  class: File
+  path: python/extrinsic-asthma---primary.py
+inputModule9:
+  class: File
+  path: python/asthma-induced---primary.py
+inputModule10:
+  class: File
+  path: python/bronchial-asthma---primary.py
+inputModule11:
+  class: File
+  path: python/asthma-bronchitis---primary.py
+inputModule12:
+  class: File
+  path: python/asthma-attack---primary.py
+inputModule13:
+  class: File
+  path: python/asthma-sequoiosis---primary.py
+inputModule14:
+  class: File
+  path: python/moderate-asthma---primary.py
+inputModule15:
+  class: File
+  path: python/allergic-asthma---primary.py
+inputModule16:
+  class: File
+  path: python/occasional-asthma---primary.py
+inputModule17:
+  class: File
+  path: python/asthma-childhood---primary.py
+inputModule18:
+  class: File
+  path: python/asthma-exercise---primary.py
+inputModule19:
+  class: File
+  path: python/asthma-severity---primary.py
+inputModule20:
+  class: File
+  path: python/chronic-asthma---primary.py
+inputModule21:
+  class: File
+  path: python/output-cases.py
